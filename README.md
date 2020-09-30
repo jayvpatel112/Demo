@@ -1,3 +1,4 @@
 # Demo
 Linux command
-nirml
+nirmal
+start merging
